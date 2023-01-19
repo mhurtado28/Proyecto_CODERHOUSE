@@ -1,6 +1,6 @@
 # Proyecto Data Science (Churn prediction)
 
-![](https://dimensionless.in/wp-content/uploads/2019/02/cover_tree.jpeg)
+
 
 ### Resumen
 
@@ -8,6 +8,7 @@ Abordamos la problemática de la compañía Telecom, que brinda servicios en la 
 
 En el notebook podrán encontrar el proceso de Data Storytelling mostrando a continuación los objetivos, contexto comercial, problema comercial, las preguntas e hipótesis planteada y el respectivo análisis exploratorio de datos sobre el dataset elegido de la empresa Telecom que brinda servicios en la industria de telecomunicaciones y el tema a estudiar es el de las deserciones de sus clientes. La idea final sería la de identificar posibles patrones que están generando ese número de deserciones y realizar predicciones
 
+## ***Algunas visualizaciones***
 
 ![](https://github.com/mhurtado28/Preentrega_Proyecto_CODERHOUSE/blob/main/Images/descarga%20(2).png)
 
