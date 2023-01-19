@@ -1,4 +1,6 @@
-# Proyecto Data Science
+# Proyecto Data Science (Churn prediction)
+
+![](https://dimensionless.in/wp-content/uploads/2019/02/cover_tree.jpeg)
 
 ### Resumen
 
