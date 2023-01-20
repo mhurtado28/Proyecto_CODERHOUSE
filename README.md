@@ -26,7 +26,7 @@ En el notebook podrán encontrar el proceso de Data Storytelling mostrando a con
 
 ### Abstract
 
-We address the problem of the Telecom company, which provides services in the telecommunications industry, regarding the defections of its clients. For this reason, the project consists of identifying the possible patterns that are generating that number of dropouts and making predictions.
+We work a problem of the Telecom company, which provides services in the telecommunications industry, regarding the defections of its clients. For this reason, the project consists of identifying the possible patterns that are generating that number of dropouts and making predictions.
 
 In the notebook you can find the Data Storytelling process showing below the objectives, commercial context, commercial problem, the questions and hypotheses raised and the respective exploratory data analysis on the chosen dataset of the Telecom company that provides services in the telecommunications industry and the subject to study is that of the defections of its clients. The final idea would be to identify possible patterns that are generating that number of defections and make predictions.
 
